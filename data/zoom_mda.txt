@@ -1,0 +1,3530 @@
+**MANAGEMENTS DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF
+OPERATIONS **
+
+_The following Management s Discussion and Analysis of Financial Condition
+and Results of Operations should be read together with our consolidated
+financial statements and accompanying notes included elsewhere within this
+prospectus. This discussion includes both historical information and forward-
+looking information that involves risk, uncertainties and assumptions. Our
+actual results may differ materially from managements expectations as a
+result of various factors, including, but not limited to, those discussed in
+the section titled Risk Factors. The last day of our fiscal year is January
+31. Our fiscal quarters end on April 30, July 31, October 31 and January 31. _
+
+**Overview**
+
+Our mission is to make video communications frictionless.
+
+We provide a video-first communications platform that delivers happiness and
+fundamentally changes how people interact. We connect people through
+frictionless video, voice, chat and content sharing and enable face-to-face
+video experiences for thousands of people in a single meeting across disparate
+devices and locations. Our cloud-native platform delivers reliable, high-
+quality video that is easy to use, manage and deploy, provides an attractive
+return on investment, is scalable and easily integrates with physical spaces
+and applications. We believe that rich and reliable communications lead to
+interactions that build greater empathy and trust. We strive to live up to the
+trust our customers place in us by delivering a communications solution that
+just works. Our goal is to make Zoom meetings better than in-person
+meetings.
+
+The positive impact we have on our customers and hosts is reflected in our
+average customer Net Promoter Score (NPS), which was over 70 in 2018. NPS,
+which can range from a low of -100 to a high of +100, measures the willingness
+of customers to recommend a companys products or services to others and is
+used as a proxy for gauging customers overall satisfaction with a companys
+product or service and the customers loyalty to the brand. We believe our
+customer-first focus is a critical part of our DNA and built directly into our
+platform architecture, which dynamically processes and delivers reliable,
+high-quality video across devices. Our architecture can support tens of
+thousands of video participants in a single meeting. Our 13 co-located data
+centers located worldwide enable us to provide both high-quality and high-
+definition, real-time video to our customers even in low bandwidth
+environments.
+
+Since our inception, our consistent focus on innovation has allowed us to
+achieve the following significant milestones:
+
+
+
+  |  |   |
+
+**2011:** Zoom founded, first employee hired, first seed funding and first
+office leased
+
+---|---|---|---
+
+
+
+  |  |   |
+
+**2013:** First public release of Zoom Meetings, which supported 200 million
+annual meeting minutes by year end
+
+---|---|---|---
+
+
+
+  |  |   |
+
+**2014:** Introduced Zoom Chat, Zoom Video Webinar and Zoom Rooms
+
+---|---|---|---
+
+
+
+  |  |   |
+
+**2015:** 100th employee hired, revolutionized mobile screen sharing,
+introduced Zoom Video Breakout Rooms and partnered with Slack and
+salesforce.com
+
+---|---|---|---
+
+
+
+  |  |   |
+
+**2016:** Added native interoperability with Microsoft Skype for business,
+introduced touch and three-screen support for Zoom Rooms and reached six
+billion annual meeting minutes
+
+---|---|---|---
+
+
+
+  |  |   |
+
+**2017:** Announced **** Zoom Developer Platform, hosted our first user
+conference, Zoomtopia, and opened offices in Australia and the United Kingdom
+
+---|---|---|---
+
+
+
+  |  |   |
+
+**2018:** Announced Zoom Phone, Zoom App Marketplace and partnerships with
+Atlassian and Dropbox
+
+---|---|---|---
+
+
+
+  |  |   |
+
+**2019:** Exceeded 5 billion monthly meeting minutes
+
+---|---|---|---
+
+
+
+55
+
+* * *
+
+##### Table of Contents
+
+Our revenue was $60.8 million, $151.5 million and $330.5 million for the
+fiscal years ended January 31, 2017, 2018 and 2019, respectively, representing
+annual revenue growth of 149% and 118% in fiscal 2018 and fiscal 2019,
+respectively. We had a net loss of $0.0 million and $3.8 million for the
+fiscal years ended January 31, 2017 and 2018, respectively, and net income of
+$7.6 million for the fiscal year ended January 31, 2019. Cash provided by
+operations was $9.4 million, $19.4 million and $51.3 million for the fiscal
+years ended January 31, 2017, 2018 and 2019, respectively.
+
+**Our Business Model**
+
+We generate revenue from the sale of subscriptions to our video-first
+communications platform. Subscription revenue is driven primarily by the
+number of paid hosts, as well as purchases of additional products including
+Zoom Rooms and Zoom Video Webinars. A host is any user of our video-first
+communications platform who initiates a Zoom Meeting and invites one or more
+participants to join that meeting. We refer to hosts who subscribe to a paid
+Zoom Meeting plan as paid hosts. We define a customer as a separate and
+distinct buying entity, which can be a single paid host or an organization of
+any size (including a distinct unit of an organization) that has multiple paid
+hosts. Our Basic offering is free and gives hosts access to Zoom Meetings with
+core features but with limitations on the number of attendees and time. Our
+paid offerings include our Pro, Business and Enterprise plans, which provide
+incremental features and functionality, such as different participant limits,
+administrative controls and reporting.
+
+The terms of our subscription agreements are monthly, annual and multi-year,
+and we may bill for the full term in advance or on an annual or monthly basis,
+depending on the customer preference. We recognize subscription revenue
+ratably over the term of the subscription period. Our larger customers
+typically opt to pay in annual installments, one year in advance. We have seen
+an increase in the proportion of annual and multi-year subscriptions and
+billings as we have increased the number of larger customers. For example, for
+the fiscal years ended January 31, 2018 and 2019, 65% and 74%, respectively,
+of our annual recurring revenue (ARR) was generated from annual and multi-year
+subscriptions. We define ARR as the annualized revenue run-rate of
+subscription agreements from all customers at a point in time. We calculate
+ARR by taking the monthly recurring revenue (MRR) and multiplying it by 12.
+MRR is defined as the recurring revenue run-rate of subscription agreements
+from all customers for the last month of the period, including revenue from
+monthly subscribers who have not provided any indication that they intend to
+cancel their subscriptions. The attrition rate for our monthly subscribers was
+less than 4% per month in the fiscal years ended January 31, 2018 and 2019.
+ARR and MRR should be viewed independently of revenue as they are operating
+metrics and are not intended to be replacements or forecasts of revenue.
+
+**Our Go-to-Market Model **
+
+We offer subscriptions to our platform to a broad range of customers, from
+single users to organizations with hundreds of thousands of employees. Users
+are comprised of both hosts who organize video meetings and the individual
+attendees who participate in those video meetings. We complement this lead-
+generation model with our multipronged go-to-market strategy that integrates
+the viral enthusiasm for our platform with optimal routes-to-market, including
+direct sales representatives, online channel, resellers and strategic
+partners. This approach allows us to cost-effectively drive upgrades to our
+paid offering and expansion within organizations of all sizes and verticals.
+
+Our platform is designed to make it easy for new users to join or host
+meetings. Meeting participants invited by a host can begin using the platform
+immediately. If a participant wants to host a meeting, they can subscribe to
+one of the paid plans or sign up for our free Basic plan. By attracting free
+hosts through our Basic plan, we drive usage on our platform, and our free
+hosts then introduce and invite new participants to experience the benefits of
+Zoom. As free hosts realize the benefits of our platform, they often subscribe
+to a paid plan to gain access to additional functionality. For the fiscal year
+ended January 31, 2019, 55% of our 344 customers that contributed more than
+$100,000 of revenue started with at least one free host prior to subscribing.
+These 344 customers contributed 30% of revenue for the fiscal year ended
+January 31, 2019.
+
+
+
+56
+
+* * *
+
+##### Table of Contents
+
+Our customer base is diverse and spans various industries and countries. Our
+top 10 customers accounted for less than 10% of revenue for each of the fiscal
+years ended January 31, 2017, 2018 and 2019.
+
+We have experienced significant success in attracting large enterprise
+customers using our model. For the fiscal year ended January 31, 2019, we had
+344 customers that contributed more than $100,000 of revenue, compared to just
+143 customers one year before.
+
+**Key Factors Affecting Our Performance**
+
+**_Acquiring New Customers_**
+
+We are focused on continuing to grow the number of customers that use our
+platform. Our operating results and growth prospects will depend in part on
+our ability to attract new customers. While we believe we have a significant
+market opportunity that our platform addresses, it is difficult to predict
+customer adoption rates or the future growth rate and size of the market for
+our platform. We will need to continue to invest in sales and marketing in
+order to address this opportunity by hiring, developing and retaining talented
+sales personnel who are able to achieve desired productivity levels in a
+reasonable period of time.
+
+**_Expansion of Zoom Across Existing Customers_**
+
+We believe that there is a large opportunity for growth with many of our
+existing customers. For the fiscal year ended January 31, 2019, greater than
+50% of the Fortune 500 had at least one paid Zoom host, compared to only 4%
+that contributed more than $100,000 of revenue. We believe this demonstrates
+that our product has already gained a foothold in many of the largest
+enterprises in the United States, and there is a large opportunity to expand
+within these large enterprise customers. Many customers have increased the
+size of their subscriptions as they have expanded their use of our platform
+across their operations. Some of our larger enterprise customers start with a
+single deployment of Zoom Meetings with one team, location or geography,
+before rolling out our platform throughout their organization. Several of our
+largest customers have deployed our platform globally to their entire
+workforce following smaller initial deployments. This expansion in the use of
+our platform also provides us with opportunities to market and sell additional
+products to our customers, such as Zoom Rooms at each office location and
+enablement of Zoom Video Webinars. In order for us to address this opportunity
+to expand the use of our products with our existing customers, we will need to
+maintain the reliability of our platform and produce new features and
+functionality that are responsive to our customers requirements for
+enterprise grade solutions.
+
+We quantify our expansion across existing customers through our net dollar
+expansion rate. Our net dollar expansion rate includes the increase in user
+adoption within our customers, as our subscription revenue is primarily driven
+by the number of paid hosts within a customer and the purchase of additional
+products, and compares our subscription revenue from the same set of customers
+across comparable periods. **** We calculate net dollar expansion rate as of a
+period end by starting with the ARR from customers with greater than 10
+employees as of the 12 months prior to such period end (Prior Period ARR). We
+then calculate the ARR from these customers as of the current period end
+(Current Period ARR). The calculation of Current Period ARR includes any
+upsells, contraction and attrition. We then divide the total Current Period
+ARR by the total Prior Period ARR to arrive at the net dollar expansion rate.
+For the trailing 12-months calculation, we take an average of this calculation
+over the previous 12 months. Our net dollar expansion rate may fluctuate as a
+result of a number of factors, including the level of penetration within our
+customer base, expansion of products and features and our ability to retain
+our customers. Our trailing 12-month net dollar expansion rate was 138%, 139%
+and 140% as of July 31, 2018, October 31, 2018 and January 31, 2019,
+respectively. As we only began tracking this metric in August 2017, we are not
+able to calculate the net dollar expansion rate for a trailing 12-month period
+prior to July 31, 2018.
+
+
+
+57
+
+* * *
+
+##### Table of Contents
+
+**_Innovation and Expansion of Our Platform_**
+
+We continue to invest resources to enhance the capabilities of our platform.
+We announced Zoom Phone in October 2018 and made it generally available in
+January 2019. In 2018, we also announced our App Marketplace to bring together
+applications built by Zoom and third-party developers that are integrated into
+our platform, making it easy for customers and developers to extend our
+product portfolio with new functionalities. We believe that the more
+developers and other third parties use our platform to integrate other major
+third-party applications, the more we become the ubiquitous platform for
+communications. We will need to expend additional resources to continue
+introducing new products, features and functionality, and supporting the
+efforts of third parties to enhance the value of our platform with their own
+applications.
+
+**_International Expansion_**
+
+Our platform addresses the communications needs of users worldwide. Minimal
+updates are required in order to make Zoom available for foreign markets, and
+we see international expansion as a major opportunity.
+
+We only recently started to expand our go-to-market operations
+internationally. Our revenue from APAC and EMEA represented 17% of our revenue
+in the fiscal year ended January 31, 2018 when we first established a physical
+sales presence in Australia and the United Kingdom. In the fiscal year ended
+January 31, 2019, our revenue from APAC and EMEA represented 18% of our
+revenue, and we added five additional local sales locations in Canada, France,
+Japan, the Netherlands and Singapore. We plan to add local sales support in
+further select international markets over time. We use strategic partners and
+resellers to sell in international markets, such as China, where we have
+limited or no sales presence. While we believe global demand for our platform
+will continue to increase as international market awareness of Zoom grows, our
+ability to conduct our operations internationally will require considerable
+management attention and resources and is subject to the particular challenges
+of supporting a rapidly growing business in an environment of multiple
+languages, cultures, customs, legal and regulatory systems, alternative
+dispute systems and commercial markets.
+
+**Key Business Metrics**
+
+We review the following key business metrics to measure our performance,
+identify trends, formulate financial projections, and make strategic
+decisions.
+
+**_Customers with Greater Than 10 Employees_**
+
+Increasing awareness of our platform and its broad range of capabilities has
+enabled us to substantially expand our customer base, which includes
+organizations of all sizes across industries. We define a customer as a
+separate and distinct buying entity, which can be a single paid host or an
+organization of any size (including a distinct unit of an organization) that
+has multiple paid hosts. To better distinguish business customers from our
+broader customer base, we review the number of customers with more than 10
+employees. Revenue from these customers represented 69%, 75% and 78% of
+revenue for the fiscal years ended January 31, 2017, 2018 and 2019,
+respectively. As of January 31, 2017, 2018 and 2019, we had approximately
+10,900, 25,800 and 50,800 customers with more than 10 employees. When
+disclosing the number of customers, we round down to the nearest hundred.
+
+**_Customers Contributing More Than $100,000 of Annual Revenue_**
+
+We focus on growing the number of customers that contribute more than $100,000
+of annual revenue as a measure of our ability to scale with our customers and
+attract larger organizations to Zoom. Revenue from these customers represented
+22%, 25% and 30% of revenue for the fiscal years ended January 31, 2017, 2018
+and 2019, respectively. As of January 31, 2017, 2018 and 2019, we had 54, 143
+and 344 customers that contributed
+
+
+
+58
+
+* * *
+
+##### Table of Contents
+
+more than $100,000 of revenue in each of their respective fiscal years,
+demonstrating our rapid penetration of larger organizations including
+enterprises. These customers are a subset of the customers with greater than
+10 employees.
+
+**Components of Results of Operations**
+
+**_Revenue_**
+
+We derive our revenue from subscription agreements with customers for access
+to our video-first communications platform. Our customers do not have the
+ability to take possession of our software. We also provide services, which
+include professional services, consulting services and online event hosting,
+which are generally considered distinct from the access to our video-first
+communications platform.
+
+**_Cost of Revenue_**
+
+Cost of revenue primarily consists of costs related to hosting our video-first
+communications platform and providing general operating support services to
+our customers. These costs are related to our co-located data centers, third-
+party cloud hosting, integrated third-party public switched telephone network
+(PSTN) services, personnel-related expenses, amortization of capitalized
+software development and allocated overhead. We expect our cost of revenue to
+increase in absolute dollars as our revenue increases.
+
+**_Operating Expenses_**
+
+_Research and Development_
+
+Research and development expenses primarily consist of personnel-related
+expenses directly associated with our research and development organization,
+depreciation of equipment used in research and development and allocated
+overhead. Research and development costs are expensed as incurred. We plan to
+increase our investment in research and development for the foreseeable future
+as we focus on further developing our platform and enhancing its use cases.
+
+_Sales and Marketing_
+
+Sales and marketing expenses primarily consist of personnel-related expenses
+directly associated with our sales and marketing organization. Other sales and
+marketing expenses include promotional events to promote our brand, such as
+awareness programs, digital programs, tradeshows and our user conference,
+Zoomtopia, and allocated overhead. Sales and marketing expenses also include
+amortization of deferred contract acquisition costs. We plan to increase our
+investment in sales and marketing over the foreseeable future, primarily from
+increased headcount in our sales force and investment in brand- and product-
+marketing efforts.
+
+_General and Administrative_
+
+General and administrative expenses primarily consist of personnel-related
+expenses associated with our finance, legal and human resources organizations,
+professional fees for external legal, accounting and other consulting
+services, bad debt expense and allocated overhead. We expect to increase the
+size of our general and administrative function to support the growth of our
+business. Following the completion of this offering, we expect to incur
+additional expenses as a result of operating as a public company. We expect
+the dollar amount of our general and administrative expenses to increase for
+the foreseeable future.
+
+**_Interest Income, Net_**
+
+Interest income, net consists primarily of interest income earned on our cash
+equivalents and marketable securities and is partially offset by interest
+expenses on convertible promissory notes.
+
+
+
+59
+
+* * *
+
+##### Table of Contents
+
+**_Other Income, Net_**
+
+Other income, net consists primarily of miscellaneous non-operational income
+and expenses and remeasurement of derivative liabilities related to
+convertible promissory notes.
+
+**_Provision for Income Taxes_**
+
+Provision for income taxes consists primarily of income taxes related to
+foreign and state jurisdictions in which we conduct business.
+
+**Results of Operations**
+
+The following tables set forth selected consolidated statements of operations
+data and such data as a percentage of total revenue for each of the periods
+indicated:
+
+
+
+|  |  |  |  |  |  |  |  |  |  |  |
+---|---|---|---|---|---|---|---|---|---|---|---|---
+  |    | **Year Ended January  31,** |
+  |    | **2017** |   |   | **2018** |   |   | **2019** |
+  |    | **(in thousands)** |
+
+Revenue
+
+|    | $ | 60,817 |   |   | $ | 151,478 |   |   | $ | 330,517 |
+
+Cost of revenue(1)
+
+|    |   | 12,472 |   |   |   | 30,780 |   |   |   | 61,001 |
+|    |
+
+
+
+|
+
+
+
+|   |   |
+
+
+
+|
+
+
+
+|   |   |
+
+
+
+|
+
+
+
+|
+
+Gross profit
+
+|    |   | 48,345 |   |   |   | 120,698 |   |   |   | 269,516 |
+|    |
+
+
+
+|
+
+
+
+|   |   |
+
+
+
+|
+
+
+
+|   |   |
+
+
+
+|
+
+
+
+|
+
+Operating expenses:
+
+|    |  |  |  |   |  |  |  |   |  |  |
+
+Research and development(1)
+
+|    |   | 9,218 |   |   |   | 15,733 |   |   |   | 33,014 |
+
+Sales and marketing(1)
+
+|    |   | 31,580 |   |   |   | 82,707 |   |   |   | 185,821 |
+
+General and administrative(1)
+
+|    |   | 7,547 |   |   |   | 27,091 |   |   |   | 44,514 |
+|    |
+
+
+
+|
+
+
+
+|   |   |
+
+
+
+|
+
+
+
+|   |   |
+
+
+
+|
+
+
+
+|
+
+Total operating expenses
+
+|    |   | 48,345 |   |   |   | 125,531 |   |   |   | 263,349 |
+|    |
+
+
+
+|
+
+
+
+|   |   |
+
+
+
+|
+
+
+
+|   |   |
+
+
+
+|
+
+
+
+|
+
+Income (loss) from operations
+
+|    |   |  |   |   |   | (4,833 | )  |   |   | 6,167 |
+|    |
+
+
+
+|
+
+
+
+|   |   |
+
+
+
+|
+
+
+
+|   |   |
+
+
+
+|
+
+
+
+|
+
+Interest income, net
+
+|    |   | 98 |   |   |   | 1,241 |   |   |   | 1,837 |
+
+Other income, net
+
+|    |   | 60 |   |   |   | 74 |   |   |   | 345 |
+|    |
+
+
+
+|
+
+
+
+|   |   |
+
+
+
+|
+
+
+
+|   |   |
+
+
+
+|
+
+
+
+|
+
+Net income (loss) before provision for income taxes
+
+|    |   | 158 |   |   |   | (3,518 | )  |   |   | 8,349 |
+
+Provision for income taxes
+
+|    |   | (172 | )  |   |   | (304 | )  |   |   | (765 | )
+|    |
+
+
+
+|
+
+
+
+|   |   |
+
+
+
+|
+
+
+
+|   |   |
+
+
+
+|
+
+
+
+|
+
+Net income (loss)
+
+|    | $ | (14 | )  |   | $ | (3,822 | )  |   | $ | 7,584 |
+|    |
+
+
+
+|
+
+
+
+|   |   |
+
+
+
+|
+
+
+
+|   |   |
+
+
+
+|
+
+
+
+|
+
+
+
+(1) |
+
+Includes stock-based compensation expense as follows:
+
+---|---
+
+
+
+|  |  |  |  |  |  |  |  |  |  |  |
+---|---|---|---|---|---|---|---|---|---|---|---|---
+  |    | **Year Ended January  31,** |
+  |    | **2017** |   |    | **2018** |   |    | **2019** |
+  |    | **(in thousands)** |
+
+Cost of revenue
+
+|    | $ | 87 |   |    | $ | 204 |   |    | $ | 1,119 |
+
+Research and development
+
+|    |   | 278 |   |    |   | 360 |   |    |   | 1,369 |
+
+Sales and marketing
+
+|    |   | 467 |   |    |   | 812 |   |    |   | 3,540 |
+
+General and administrative
+
+|    |   | 207 |   |    |   | 8,953 |   |    |   | 2,913 |
+|    |
+
+
+
+|
+
+
+
+|   |    |
+
+
+
+|
+
+
+
+|   |    |
+
+
+
+|
+
+
+
+|
+
+Total stock-based compensation expense
+
+|    | $ | 1,039 |   |    | $ | 10,329 |   |    | $ | 8,941 |
+|    |
+
+
+
+|
+
+
+
+|   |    |
+
+
+
+|
+
+
+
+|   |    |
+
+
+
+|
+
+
+
+|
+
+
+
+60
+
+* * *
+
+##### Table of Contents
+
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---
+  |    | **Year  Ended January 31,**
+  |    | **2017** |   | **2018** |   | **2019**
+  |    | **(as  a percentage of revenue)**
+
+Revenue
+
+|    |   |   | 100 | % |   |   |   | 100 | % |   |   |   | 100 | %
+
+Cost of revenue
+
+|    |   |   |               21 |  |   |   |   |               20 |  |   |   |
+|               18 |
+|    |   |
+
+
+
+|
+
+
+
+|   |   |   |
+
+
+
+|
+
+
+
+|   |   |   |
+
+
+
+|
+
+
+
+|
+
+Gross profit
+
+|    |   |   | 79 |  |   |   |   | 80 |  |   |   |   | 82 |
+|    |   |
+
+
+
+|
+
+
+
+|   |   |   |
+
+
+
+|
+
+
+
+|   |   |   |
+
+
+
+|
+
+
+
+|
+
+Operating expenses:
+
+|    |   |  |  |  |   |   |  |  |  |   |   |  |  |
+
+Research and development
+
+|    |   |   | 15 |  |   |   |   | 10 |  |   |   |   | 10 |
+
+Sales and marketing
+
+|    |   |   | 52 |  |   |   |   | 55 |  |   |   |   | 56 |
+
+General and administrative
+
+|    |   |   | 12 |  |   |   |   | 18 |  |   |   |   | 14 |
+|    |   |
+
+
+
+|
+
+
+
+|   |   |   |
+
+
+
+|
+
+
+
+|   |   |   |
+
+
+
+|
+
+
+
+|
+
+Total operating expenses
+
+|    |   |   | 79 |  |   |   |   | 83 |  |   |   |   | 80 |
+|    |   |
+
+
+
+|
+
+
+
+|   |   |   |
+
+
+
+|
+
+
+
+|   |   |   |
+
+
+
+|
+
+
+
+|
+
+Income (loss) from operations
+
+|    |   |   |  |  |   |   |   | (3 | ) |   |   |   | 2 |
+
+Interest income, net
+
+|    |   |   |  |  |   |   |   | 1 |  |   |   |   | 1 |
+
+Other income, net
+
+|    |   |   |  |  |   |   |   |  |  |   |   |   |  |
+|    |   |
+
+
+
+|
+
+
+
+|   |   |   |
+
+
+
+|
+
+
+
+|   |   |   |
+
+
+
+|
+
+
+
+|
+
+Net income (loss) before provision for income taxes
+
+|    |   |   |  |  |   |   |   | (2 | ) |   |   |   | 3 |
+
+Provision for income taxes
+
+|    |   |   |  |  |   |   |   | (1 | ) |   |   |   | (1 | )
+|    |   |
+
+
+
+|
+
+
+
+|   |   |   |
+
+
+
+|
+
+
+
+|   |   |   |
+
+
+
+|
+
+
+
+|
+
+Net income (loss)
+
+|    |   |   |  |  |   |   |   | (3 | ) |   |   |   | 2 |
+|    |   |
+
+
+
+|
+
+
+
+|   |   |   |
+
+
+
+|
+
+
+
+|   |   |   |
+
+
+
+|
+
+
+
+|
+
+**_Comparison of the Fiscal Years Ended January  31, 2017, 2018 and 2019 _**
+
+_Revenue_
+
+
+
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---
+  |    | **Year Ended January  31,** |
+  |    | **2017** |   |    | **2018** |   |    | **2019** |   |    | **2018**
+ **vs
+2017%**
+ **Change** |   |   | **2019**
+ **vs
+2018%**
+ **Change** |
+  |    | **(in thousands)** |   |    |   |   |   |   |
+
+Revenue
+
+|    | $ | 60,817 |   |    | $ | 151,478 |   |    | $ | 330,517 |   |    |   |
+149 | %  |   |   | 118 | %
+
+_2018 compared_ to 2017. Revenue in the fiscal year ended January 31, 2018
+increased by $90.7 million, or 149%, compared to the fiscal year ended January
+31, 2017. The increase was substantially due to existing customers, which
+accounted for approximately 55% of the increase, and to new customers, which
+accounted for approximately 45% of the increase.
+
+_2019 compared_ to 2018. Revenue in the fiscal year ended January 31, 2019
+increased by $179.0 million, or 118%, compared to the fiscal year ended
+January 31, 2018. The increase was substantially due to existing customers,
+which accounted for approximately 56% of the increase, and to new customers,
+which accounted for approximately 44% of the increase.
+
+_Cost of Revenue_
+
+
+
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---
+  |    | **Year Ended January  31,** |
+  |    | **2017** |   |   | **2018** |   |   | **2019** |   |   | **2018**
+ **vs
+2017%**
+ **Change** |   |   | **2019**
+ **vs
+2018%**
+ **Change** |
+  |    | **(in thousands)** |   |   |   |   |   |   |
+
+Cost of revenue
+
+|    | $ | 12,472 |   |   | $ | 30,780 |   |   | $ | 61,001 |   |   |   | 147
+| %  |   |   | 98 | %
+
+Gross profit
+
+|    |   | 48,345 |   |   |   | 120,698 |   |   |   | 269,516 |   |   |   |
+150 |   |   |   | 123 |
+
+Gross margin
+
+|    |   | 79 | %  |   |   | 80 | %  |   |   | 82 | %  |   |  |  |  |   |  |
+|
+
+
+
+61
+
+* * *
+
+##### Table of Contents
+
+_2018 compared_ to 2017. Cost of revenue in the fiscal year ended January 31,
+2018 increased by $18.3 million, or 147%, compared to the fiscal year ended
+January 31, 2017. The increase in cost of revenue was primarily attributable
+to an increase of $10.9 million in costs related to our co-located data
+centers, third-party cloud hosting and integrated third-party PSTN services to
+support the increase in customers and expanded use of our video-first
+communications platform by existing customers, and an increase of $5.9 million
+in personnel-related expenses as a result of increased headcount.
+
+_2019 compared_ to 2018. Cost of revenue in the fiscal year ended January 31,
+2019 increased by $30.2 million, or 98%, compared to the fiscal year ended
+January 31, 2018. The increase in cost of revenue was primarily attributable
+to an increase of $16.2 million in costs related to our co-located data
+centers, third-party cloud hosting and integrated third-party PSTN services to
+support the increase in customers and expanded use of our video-first
+communications platform by existing customers, and an increase of $9.9 million
+in personnel-related expenses as a result of increased headcount.
+
+_Operating Expenses_
+
+
+
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---
+  |    | **Year Ended January  31,** |
+  |    | **2017** |   |    | **2018** |   |    | **2019** |   |    | **2018
+vs 2017**
+ **% Change** |   |   | **2019  vs 2018**
+ **% Change** |
+  |    | **(in thousands)** |   |    |   |   |   |   |
+
+Research and development
+
+|    | $ | 9,218 |   |    | $ | 15,733 |   |    | $ | 33,014 |   |    |   | 71
+| %  |   |   | 110 | %
+
+_2018 compared to 2017._ Research and development expense in the fiscal year
+ended January 31, 2018 increased by $6.5 million, or 71%, compared to the
+fiscal year ended January 31, 2017, as we continued to add new features and
+functionality to our video-first communications platform. The increase was
+primarily attributable to an increase in personnel-related expenses of $5.3
+million as a result of increased headcount. The remainder of the increase was
+primarily attributable to increased expenses of $0.4 million related to
+equipment and software and $0.3 million in allocated overhead. __
+
+_2019 compared to 2018._ Research and development expense in the fiscal year
+ended January 31, 2019 increased by $17.3 million, or 110%, compared to the
+fiscal year ended January 31, 2018, as we continued to add new features and
+functionality to our video-first communications platform. The increase was
+primarily attributable to an increase in personnel-related expenses of $13.2
+million as a result of increased headcount. The remainder of the increase was
+primarily attributable to increased expenses of $1.0 million related to
+allocated overhead, $1.0 million related to stock-based compensation and $0.9
+million in equipment and software.
+
+
+
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---
+  |    | **Year Ended January  31,** |
+  |    | **2017** |   |    | **2018** |   |    | **2019** |   |    | **2018
+vs 2017**
+ **% Change** |   |   | **2019  vs 2018**
+ **% Change** |
+  |    | **(in thousands)** |   |    |   |   |   |   |
+
+Sales and marketing
+
+|    | $ | 31,580 |   |    | $ | 82,707 |   |    | $ | 185,821 |   |    |   |
+162 | %  |   |   | 125 | %
+
+_2018 compared to 2017._ Sales and marketing expense in the fiscal year ended
+January 31, 2018 increased by $51.1 million, or 162%, compared to the fiscal
+year ended January 31, 2017. The increase in sales and marketing expense was
+primarily attributable to an increase in marketing and sales event-related
+costs of $22.3 million as a result of increased costs related to digital,
+awareness and tradeshow programs, including our user conference, Zoomtopia,
+and an increase in personnel-related expenses of $20.9 million as a result of
+increased headcount to support the growth in our sales force, which includes a
+$6.5 million increase in sales commissions driven by our increase in revenue.
+The remainder of the increase was primarily attributable to increased expenses
+of $2.0 million in allocated overhead, $1.7 million in processing costs
+associated with sales, $1.0 million in rent and $0.9 million related to
+equipment and software. __
+
+
+
+62
+
+* * *
+
+##### Table of Contents
+
+_2019 compared to 2018_. Sales and marketing expense in the fiscal year ended
+January 31, 2019 increased by $103.1 million, or 125%, compared to the fiscal
+year ended January 31, 2018. The increase in sales and marketing expense was
+primarily attributable to an increase in personnel-related expenses of $50.1
+million as a result of increased headcount to support the growth in our sales
+force, which included a $13.3 million increase in sales commissions driven by
+our increase in revenue. The increase was also driven by an increase in
+marketing and sales event-related costs of $33.1 million as a result of
+increased costs related to digital, awareness and tradeshow programs,
+including Zoomtopia. The remainder of the increase was primarily attributable
+to increased expenses of $3.0 million in processing costs associated with
+sales, $2.8 million in travel expenses, $2.8 million in allocated overhead,
+$2.7 million related to stock-based compensation, $2.1 million in rent
+expense, and $1.7 million related to equipment and software.
+
+
+
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---
+  |    | **Year Ended January  31,** |
+  |    | **2017** |   |    | **2018** |   |    | **2019** |   |    | **2018
+vs 2017**
+ **% Change** |   |   | **2019  vs 2018**
+ **% Change** |
+  |    | **(in thousands)** |   |    |   |   |   |   |
+
+General and administrative
+
+|    | $ | 7,547 |   |    | $ | 27,091 |   |    | $ | 44,514 |   |    |   |
+259 | %  |   |   | 64 | %
+
+_2018 compared to 2017_. General and administrative expense in the fiscal year
+ended January 31, 2018 increased by $19.5 million, or 259%, compared to the
+fiscal year ended January 31, 2017. The increase in general and administrative
+expense was primarily due to an increase in stock-based compensation expense
+of $8.7 million. The increase in stock-based compensation was primarily due to
+the sale of common stock by our Chief Executive Officer to an existing
+stockholder, which resulted in the recognition of stock-based compensation
+expense of $8.6 million for the difference between the purchase price and the
+fair value of our common stock at the time of sale. Refer to Note 7 to our
+consolidated financial statements included elsewhere in this prospectus for
+more information regarding this transaction. The remainder of the increase was
+primarily attributable to increased expenses of $4.0 million related to a
+contingent liability for sales and other taxes, $3.3 million in personnel-
+related expenses as a result of increased headcount, $1.2 million for external
+accounting and consulting services, $0.8 million related to equipment and
+software and $0.6 million in allocated overhead. __
+
+_2019 compared to 2018_. General and administrative expense in the fiscal year
+ended January 31, 2019 increased by $17.4 million, or 64%, compared to the
+fiscal year ended January 31, 2018. The increase in general and administrative
+expense was primarily due to an increase of $7.8 million in personnel-related
+expenses as a result of increased headcount, increased expenses of $7.0
+million related to a contingent liability for sales and other taxes, $3.3
+million for external accounting and consulting services, $1.3 million in legal
+expenses, $1.2 million in bad debt expense, and $1.1 million related to
+equipment and software, partially offset by a decrease of $6.0 million in
+stock-based compensation expense due to the sale of common stock by our Chief
+Executive Officer to an existing stockholder in fiscal 2018, which resulted in
+the recognition of stock-based compensation expense of $8.6 million in fiscal
+2018. Refer to Note 7 to our consolidated financial statements included
+elsewhere in this prospectus for more information regarding this transaction.
+
+_Interest Income, Net_
+
+
+
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---
+  |    | **Year Ended January  31,** |
+  |    | **2017** |   |    | **2018** |   |    | **2019** |   |    | **2018
+vs 2017**
+ **% Change** |   |   | **2019  vs 2018**
+ **% Change** |
+  |    | **(in  thousands)** |   |    |   |   |   |   |
+
+Interest income, net
+
+|    | $ | 98 |   |    | $ | 1,241 |   |    | $ | 1,837 |   |    |   | 1,166 |
+%  |   |   | 48 | %
+
+_2018 compared to 2017_. Interest income, net for the fiscal year ended
+January 31, 2018 increased by $1.1 million, or 1,166%, compared to the fiscal
+year ended January 31, 2017. The increase was primarily driven by interest
+income earned from our investments in marketable securities.
+
+
+
+63
+
+* * *
+
+##### Table of Contents
+
+_2019 compared to 2018_. Interest income, net for the fiscal year ended
+January 31, 2019 increased by $0.6 million, or 48%, compared to the fiscal
+year ended January 31, 2018. The increase was primarily driven by $0.8 million
+of interest income earned from our investments in marketable securities,
+partially offset by $0.2 million in interest expenses on convertible
+promissory notes.
+
+_Other Income, Net_
+
+
+
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---
+  |    | **Year Ended January  31,** |
+  |    | **2017** |   |    | **2018** |   |    | **2019** |   |    | **2018
+vs
+2017%**
+ **Change** |   |   | **2019 vs
+2018%
+Change** |
+  |    | **(in  thousands)** |   |    |   |   |   |   |
+
+Other income, net
+
+|    | $ | 60 |   |    | $ | 74 |   |    | $ | 345 |   |    |   | 23 | %  |
+|   | 366 | %
+
+There were no significant changes to other income, net during the respective
+periods.
+
+_Provision for Income Taxes_
+
+
+
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---
+  |    | **Year Ended January  31,** |   |   |
+
+
+
+|
+  |    | **2017** |   |    | **2018** |   |    | **2019** |   |    | **2018 vs
+2017%
+Change** |   |   | **2019 vs
+2018%**
+ **Change** |
+  |    | **(in  thousands)** |   |    |   |   |   |   |
+
+Provision for income taxes
+
+|    | $ | 172 |   |    | $ | 304 |   |    | $ | 765 |   |    |   | 77 | %  |
+|   | 152 | %
+
+_2018 compared to 2017._ Provision for income taxes for the fiscal year ended
+January 31, 2018 increased by $0.1 million, or 77%, compared to the fiscal
+year ended January 31, 2017. The change in provision for income taxes was due
+primarily to international operations.
+
+_2019 compared to 2018._ Provision for income taxes for the fiscal year ended
+January 31, 2019 increased by $0.5 million, or 152%, compared to the fiscal
+year ended January 31, 2018. The change in provision for income taxes was due
+primarily to international operations.
+
+
+
+64
+
+* * *
+
+##### Table of Contents
+
+**Quarterly Results of Operations**
+
+The following tables set forth our unaudited quarterly consolidated statements
+of operations data for each of the quarters indicated, as well as the
+percentage that each line item represents of our revenue for each quarter
+presented. The information for each quarter has been prepared on a basis
+consistent with our audited consolidated financial statements included in this
+prospectus, and reflect, in the opinion of management, all adjustments of a
+normal, recurring nature that are necessary for a fair statement of the
+financial information contained in those financial statements. Our historical
+results are not necessarily indicative of the results that may be expected in
+the future. The following quarterly financial data should be read in
+conjunction with our consolidated financial statements included elsewhere in
+this prospectus.
+
+
+
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |
+---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---
+  |   | **Three Months Ended** |
+  |   | **April  30,
+2017** |   |   | **July  31,
+2017** |   |   | **October  31,
+2017** |   |   | **January  31,
+2018** |   |   | **April  30,
+2018** |   |   | **July  31,
+2018** |   |   | **October  31,
+2018** |   |   | **January  31,
+2019** |
+  |   | **(in thousands)** |
+
+Revenue
+
+|   | $ | 26,753 |   |   | $ | 32,921 |   |   | $ | 40,890 |   |   | $ |
+50,914 |   |   | $ | 60,070 |   |   | $ | 74,526 |   |   | $ | 90,121 |   |
+| $ | 105,800 |
+
+Cost of revenue(1)
+
+|   |   | 5,499 |   |   |   | 6,777 |   |   |   | 7,755 |   |   |   | 10,749 |
+|   |   | 11,660 |   |   |   | 12,973 |   |   |   | 16,843 |   |   |   |
+19,525 |
+|   |
+
+
+
+|
+
+
+
+|   |   |
+
+
+
+|
+
+
+
+|   |   |
+
+
+
+|
+
+
+
+|   |   |
+
+
+
+|
+
+
+
+|   |   |
+
+
+
+|
+
+
+
+|   |   |
+
+
+
+|
+
+
+
+|   |   |
+
+
+
+|
+
+
+
+|   |   |
+
+
+
+|
+
+
+
+|
+
+Gross profit
+
+|   |   | 21,254 |   |   |   | 26,144 |   |   |   | 33,135 |   |   |   |
+40,165 |   |   |   | 48,410 |   |   |   | 61,553 |   |   |   | 73,278 |   |
+|   | 86,275 |
+
+Operating expenses:
+
+|   |  |  |  |   |  |  |  |   |  |  |  |   |  |  |  |   |  |  |  |   |  |  |
+|   |  |  |  |   |  |  |
+
+Research and development(1)
+
+|   |   | 3,545 |   |   |   | 3,542 |   |   |   | 4,199 |   |   |   | 4,447 |
+|   |   | 6,264 |   |   |   | 7,049 |   |   |   | 8,893 |   |   |   | 10,808 |
+
+Sales and marketing(1)
+
+|   |   | 12,693 |   |   |   | 16,636 |   |   |   | 23,803 |   |   |   |
+29,575 |   |   |   | 36,261 |   |   |   | 41,054 |   |   |   | 53,454 |   |
+|   | 55,052 |
+
+General and administrative(1)
+
+|   |   | 2,750 |   |   |   | 12,508 |   |   |   | 5,414 |   |   |   | 6,419 |
+|   |   | 7,569 |   |   |   | 10,028 |   |   |   | 11,994 |   |   |   | 14,923
+|
+|   |
+
+
+
+|
+
+
+
+|   |   |
+
+
+
+|
+
+
+
+|   |   |
+
+
+
+|
+
+
+
+|   |   |
+
+
+
+|
+
+
+
+|   |   |
+
+
+
+|
+
+
+
+|   |   |
+
+
+
+|
+
+
+
+|   |   |
+
+
+
+|
+
+
+
+|   |   |
+
+
+
+|
+
+
+
+|
+
+Total operating expenses
+
+|   |   | 18,988 |   |   |   | 32,686 |   |   |   | 33,416 |   |   |   |
+40,441 |   |   |   | 50,094 |   |   |   | 58,131 |   |   |   | 74,341 |   |
+|   | 80,783 |
+|   |
+
+
+
+|
+
+
+
+|   |   |
+
+
+
+|
+
+
+
+|   |   |
+
+
+
+|
+
+
+
+|   |   |
+
+
+
+|
+
+
+
+|   |   |
+
+
+
+|
+
+
+
+|   |   |
+
+
+
+|
+
+
+
+|   |   |
+
+
+
+|
+
+
+
+|   |   |
+
+
+
+|
+
+
+
+|
+
+Income (loss) from operations
+
+|   |   | 2,266 |   |   |   | (6,542 | )  |   |   | (281 | )  |   |   | (276 |
+)  |   |   | (1,684 | )  |   |   | 3,422 |   |   |   | (1,063 | )  |   |   |
+5,492 |
+|   |
+
+
+
+|
+
+
+
+|   |   |
+
+
+
+|
+
+
+
+|   |   |
+
+
+
+|
+
+
+
+|   |   |
+
+
+
+|
+
+
+
+|   |   |
+
+
+
+|
+
+
+
+|   |   |
+
+
+
+|
+
+
+
+|   |   |
+
+
+
+|
+
+
+
+|   |   |
+
+
+
+|
+
+
+
+|
+
+Interest income, net
+
+|   |   | 137 |   |   |   | 311 |   |   |   | 403 |   |   |   | 390 |   |   |
+| 436 |   |   |   | 463 |   |   |   | 477 |   |   |   | 461 |
+
+Other income (expense), net
+
+|   |   | 2 |   |   |   | 29 |   |   |   | (21 | )  |   |   | 64 |   |   |   |
+5 |   |   |   | 81 |   |   |   | 128 |   |   |   | 131 |
+|   |
+
+
+
+|
+
+
+
+|   |   |
+
+
+
+|
+
+
+
+|   |   |
+
+
+
+|
+
+
+
+|   |   |
+
+
+
+|
+
+
+
+|   |   |
+
+
+
+|
+
+
+
+|   |   |
+
+
+
+|
+
+
+
+|   |   |
+
+
+
+|
+
+
+
+|   |   |
+
+
+
+|
+
+
+
+|
+
+Net income (loss) before provision for income taxes
+
+|   |   | 2,405 |   |   |   | (6,202 | )  |   |   | 101 |   |   |   | 178 |
+|   |   | (1,243 | )  |   |   | 3,966 |   |   |   | (458 | )  |   |   | 6,084
+|
+
+Provision for income taxes
+
+|   |   | (53 | )  |   |   | (57 | )  |   |   | (80 | )  |   |   | (114 | )  |
+|   | (97 | )  |   |   | (141 | )  |   |   | (140 | )  |   |   | (387 | )
+|   |
+
+
+
+|
+
+
+
+|   |   |
+
+
+
+|
+
+
+
+|   |   |
+
+
+
+|
+
+
+
+|   |   |
+
+
+
+|
+
+
+
+|   |   |
+
+
+
+|
+
+
+
+|   |   |
+
+
+
+|
+
+
+
+|   |   |
+
+
+
+|
+
+
+
+|   |   |
+
+
+
+|
+
+
+
+|
+
+Net income (loss)
+
+|   | $ | 2,352 |   |   | $ | (6,259 | )  |   | $ | 21 |   |   | $ | 64 |   |
+| $ | (1,340 | )  |   | $ | 3,825 |   |   | $ | (598 | )  |   | $ | 5,697 |
+|   |
+
+
+
+|
+
+
+
+|   |   |
+
+
+
+|
+
+
+
+|   |   |
+
+
+
+|
+
+
+
+|   |   |
+
+
+
+|
+
+
+
+|   |   |
+
+
+
+|
+
+
+
+|   |   |
+
+
+
+|
+
+
+
+|   |   |
+
+
+
+|
+
+
+
+|   |   |
+
+
+
+|
+
+
+
+|
+
+
+
+(1) |
+
+Includes stock-based compensation expense as follows:
+
+---|---
+
+
+
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |
+---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---
+  |   | **Three Months Ended** |
+  |   | **April  30,
+2017** |   |   | **July  31,
+2017** |   |   | **October  31,
+2017** |   |   | **January  31,
+2018** |   |   | **April  30,
+2018** |   |   | **July  31,
+2018** |   |   | **October  31,
+2018** |   |   | **January  31,
+2019** |
+  |   | **(in thousands)** |
+
+Cost of revenue
+
+|   | $ | 51 |   |   | $ | 45 |   |   | $ | 48 |   |   | $ | 60 |   |   | $ |
+95 |   |   | $ | 130 |   |   | $ | 317 |   |   | $ | 577 |
+
+Research and development
+
+|   |   | 73 |   |   |   | 75 |   |   |   | 102 |   |   |   | 110 |   |   |
+| 129 |   |   |   | 193 |   |   |   | 383 |   |   |   | 664 |
+
+Sales and marketing
+
+|   |   | 135 |   |   |   | 141 |   |   |   | 250 |   |   |   | 286 |   |   |
+| 396 |   |   |   | 492 |   |   |   | 1,154 |   |   |   | 1,498 |
+
+General and administrative
+
+|   |   | 47 |   |   |   | 8,684 |   |   |   | 75 |   |   |   | 147 |   |   |
+| 229 |   |   |   | 311 |   |   |   | 798 |   |   |   | 1,575 |
+|   |
+
+
+
+|
+
+
+
+|   |   |
+
+
+
+|
+
+
+
+|   |   |
+
+
+
+|
+
+
+
+|   |   |
+
+
+
+|
+
+
+
+|   |   |
+
+
+
+|
+
+
+
+|   |   |
+
+
+
+|
+
+
+
+|   |   |
+
+
+
+|
+
+
+
+|   |   |
+
+
+
+|
+
+
+
+|
+
+Total stock-based compensation expense
+
+|   | $ |     306 |   |   | $ |   8,945 |   |   | $ |       475 |   |   | $ |
+603 |   |   | $ | 849 |   |   | $ | 1,126 |   |   | $ | 2,652 |   |   | $ |
+4,314 |
+|   |
+
+
+
+|
+
+
+
+|   |   |
+
+
+
+|
+
+
+
+|   |   |
+
+
+
+|
+
+
+
+|   |   |
+
+
+
+|
+
+
+
+|   |   |
+
+
+
+|
+
+
+
+|   |   |
+
+
+
+|
+
+
+
+|   |   |
+
+
+
+|
+
+
+
+|   |   |
+
+
+
+|
+
+
+
+|
+
+
+
+65
+
+* * *
+
+##### Table of Contents
+
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |
+---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---
+  |   | **Three Months Ended** |
+  |   | **April  30,
+2017** |   |   | **July  31,
+2017** |   |   | **October  31,
+2017** |   |   | **January  31,
+2018** |   |   | **April  30,
+2018** |   |   | **July  31,
+2018** |   |   | **October  31,
+2018** |   |   | **January  31,
+2019** |
+
+Revenue
+
+|   |   | 100 | %  |   |   | 100 | %  |   |   | 100 | %  |   |   | 100 | %  |
+|   | 100 | %  |   |   | 100 | %  |   |   | 100 | %  |   |   | 100 | %
+
+Cost of revenue
+
+|   |   |           21 |   |   |   |         21 |   |   |   |               19
+|   |   |   |               21 |   |   |   |               19 |   |   |   |
+17 |   |   |   |               19 |   |   |   |               18 |
+|   |
+
+
+
+|
+
+
+
+|   |   |
+
+
+
+|
+
+
+
+|   |   |
+
+
+
+|
+
+
+
+|   |   |
+
+
+
+|
+
+
+
+|   |   |
+
+
+
+|
+
+
+
+|   |   |
+
+
+
+|
+
+
+
+|   |   |
+
+
+
+|
+
+
+
+|   |   |
+
+
+
+|
+
+
+
+|
+
+Gross profit
+
+|   |   | 79 |   |   |   | 79 |   |   |   | 81 |   |   |   | 79 |   |   |   |
+81 |   |   |   | 83 |   |   |   | 81 |   |   |   | 82 |
+
+Operating expenses:
+
+|   |  |  |  |   |  |  |  |   |  |  |  |   |  |  |  |   |  |  |  |   |  |  |
+|   |  |  |  |   |  |  |
+
+Research and development
+
+|   |   | 13 |   |   |   | 11 |   |   |   | 11 |   |   |   | 9 |   |   |   |
+11 |   |   |   | 9 |   |   |   | 10 |   |   |   | 11 |
+
+Sales and marketing
+
+|   |   | 48 |   |   |   | 50 |   |   |   | 58 |   |   |   | 58 |   |   |   |
+60 |   |   |   | 55 |   |   |   | 59 |   |   |   | 52 |
+
+General and administrative
+
+|   |   | 10 |   |   |   | 38 |   |   |   | 13 |   |   |   | 13 |   |   |   |
+13 |   |   |   | 14 |   |   |   | 13 |   |   |   | 14 |
+|   |
+
+
+
+|
+
+
+
+|   |   |
+
+
+
+|
+
+
+
+|   |   |
+
+
+
+|
+
+
+
+|   |   |
+
+
+
+|
+
+
+
+|   |   |
+
+
+
+|
+
+
+
+|   |   |
+
+
+
+|
+
+
+
+|   |   |
+
+
+
+|
+
+
+
+|   |   |
+
+
+
+|
+
+
+
+|
+
+Total operating expenses
+
+|   |   | 71 |   |   |   | 99 |   |   |   | 82 |   |   |   | 80 |   |   |   |
+84 |   |   |   | 78 |   |   |   | 82 |   |   |   | 77 |
+|   |
+
+
+
+|
+
+
+
+|   |   |
+
+
+
+|
+
+
+
+|   |   |
+
+
+
+|
+
+
+
+|   |   |
+
+
+
+|
+
+
+
+|   |   |
+
+
+
+|
+
+
+
+|   |   |
+
+
+
+|
+
+
+
+|   |   |
+
+
+
+|
+
+
+
+|   |   |
+
+
+
+|
+
+
+
+|
+
+Income (loss) from operations
+
+|   |   | 8 |   |   |   | (20 | )  |   |   | (1 | )  |   |   | (1 | )  |   |
+| (3 | )  |   |   | 5 |   |   |   | (1 | )  |   |   | 5 |
+|   |
+
+
+
+|
+
+
+
+|   |   |
+
+
+
+|
+
+
+
+|   |   |
+
+
+
+|
+
+
+
+|   |   |
+
+
+
+|
+
+
+
+|   |   |
+
+
+
+|
+
+
+
+|   |   |
+
+
+
+|
+
+
+
+|   |   |
+
+
+
+|
+
+
+
+|   |   |
+
+
+
+|
+
+
+
+|
+
+Interest income, net
+
+|   |   | 1 |   |   |   | 1 |   |   |   | 1 |   |   |   | 1 |   |   |   |  |
+|   |   |  |   |   |   |  |   |   |   | 1 |
+
+Other income, net
+
+|   |   |  |   |   |   |  |   |   |   |  |   |   |   |  |   |   |   | 1 |
+|   |   |  |   |   |   |  |   |   |   |  |
+|   |
+
+
+
+|
+
+
+
+|   |   |
+
+
+
+|
+
+
+
+|   |   |
+
+
+
+|
+
+
+
+|   |   |
+
+
+
+|
+
+
+
+|   |   |
+
+
+
+|
+
+
+
+|   |   |
+
+
+
+|
+
+
+
+|   |   |
+
+
+
+|
+
+
+
+|   |   |
+
+
+
+|
+
+
+
+|
+
+Net income (loss) before provision for income taxes
+
+|   |   | 9 |   |   |   | (19 | )  |   |   |  |   |   |   |  |   |   |   |
+(2 | )  |   |   | 5 |   |   |   | (1 | )  |   |   | 6 |
+
+Provision for income taxes
+
+|   |   |  |   |   |   |  |   |   |   |  |   |   |   |  |   |   |   |  |
+|   |   |  |   |   |   |  |   |   |   | (1 | )
+|   |
+
+
+
+|
+
+
+
+|   |   |
+
+
+
+|
+
+
+
+|   |   |
+
+
+
+|
+
+
+
+|   |   |
+
+
+
+|
+
+
+
+|   |   |
+
+
+
+|
+
+
+
+|   |   |
+
+
+
+|
+
+
+
+|   |   |
+
+
+
+|
+
+
+
+|   |   |
+
+
+
+|
+
+
+
+|
+
+Net income (loss)
+
+|   |   | 9 | %    |   |   | (19 | )%  |   |   |  | %  |   |   |  | %  |   |
+| (2 | )%  |   |   | 5 | %  |   |   | (1 | )%  |   |   | 5 | %
+|   |
+
+
+
+|
+
+
+
+|   |   |
+
+
+
+|
+
+
+
+|   |   |
+
+
+
+|
+
+
+
+|   |   |
+
+
+
+|
+
+
+
+|   |   |
+
+
+
+|
+
+
+
+|   |   |
+
+
+
+|
+
+
+
+|   |   |
+
+
+
+|
+
+
+
+|   |   |
+
+
+
+|
+
+
+
+|
+
+**_Quarterly Revenue Trends_**
+
+Revenue increased sequentially in each of the quarters presented primarily due
+to sales of subscriptions to new customers and the expanded use of our video-
+first communications platform by existing customers. A substantial portion of
+the revenue that we report in each period is attributable to the recognition
+of deferred revenue related to orders that we received during previous
+periods. Consequently, increases or decreases in new sales or renewals in any
+one period may not be immediately reflected in our revenue for that period and
+may impact our revenue in future periods. Accordingly, the effect of downturns
+in sales and market acceptance of our video-first communications platform with
+new customers, and potential changes in our rate of renewals with existing
+customers, may not be fully reflected in our results of operations until
+future periods.
+
+**_Quarterly Cost of Revenue Trends_**
+
+Cost of revenue increased sequentially in each of the quarters presented,
+primarily driven by expanded use of our video-first communications platform by
+new and existing customers, which resulted in increased costs related to our
+co-located data centers, third-party cloud hosting, integrated third-party
+PSTN services and personnel-related expenses.
+
+**_Quarterly Gross Profit Trends_**
+
+Gross profit increased sequentially in each of the quarters presented,
+primarily driven by an increase in revenue. Our gross profit margins were
+consistent for all periods presented.
+
+**_Quarterly Operating Expenses Trends_**
+
+Our total quarterly operating expenses increased sequentially for all periods
+presented due primarily to increases in headcount and other related expenses
+to support our growth. We intend to continue to make
+
+
+
+66
+
+* * *
+
+##### Table of Contents
+
+significant investments in our sales and marketing organization to drive
+revenue growth. We have also experienced a seasonal increase in sales and
+marketing expenses in our third fiscal quarter due to costs associated with
+our user conference Zoomtopia. We also intend to continue investing in our
+research and development efforts to add new features to and enhance the
+functionality of our existing video-first communications platform, and to
+ensure the reliability, availability and scalability of our solutions. As a
+result, we anticipate that in future fiscal quarters, the majority of our
+research and development expenses will result from personnel-related expenses
+and from technology tools used by our engineers in research and development
+activities. During our second fiscal quarter in fiscal 2018, we experienced a
+significant increase in general and administrative expense due to the sale of
+shares of our common stock by our CEO to an existing investor. As a result, we
+recognized stock-based compensation expense for the difference between the
+purchase price and the fair value of the Companys common stock at the time of
+sale. Refer to Note 7 to our consolidated financial statements included
+elsewhere in this prospectus for more information regarding this transaction.
+General and administrative expenses also include increased costs in recent
+fiscal quarters due to preparing to be a public company, a trend that we
+expect to continue for the foreseeable future.
+
+**Liquidity and Capital Resources**
+
+As of January 31, 2019, our principal sources of liquidity were cash, cash
+equivalents and marketable securities of $176.4 million, which were held for
+working capital purposes. Our marketable securities generally consist of high-
+grade commercial paper, corporate bonds, agency bonds and U.S. government
+agency securities.
+
+Since our inception, we have financed our operations primarily through sales
+of equity securities and cash generated from operations. We also issued
+convertible promissory notes in an aggregate principal amount of $15.0 million
+to two strategic partners. Refer to Note 5 to our consolidated financial
+statements included elsewhere in this prospectus for more information
+regarding these transactions. Our principal uses of cash in recent periods
+have been funding our operations, investing in capital expenditures and
+repurchasing capital stock.
+
+During the fiscal years ended January 31, 2017 and 2018, we repurchased
+4,000,000 and 1,365,800 shares of our Series A convertible preferred stock
+from certain stockholders for an aggregate amount of $15.0 million and $4.6
+million, respectively, and subsequently retired such shares. Refer to Note 7
+to our consolidated financial statements included elsewhere in this prospectus
+for more information regarding these transactions.
+
+We believe our existing cash, cash equivalents and marketable securities,
+together with cash provided by operations, will be sufficient to meet our
+needs for at least the next 12 months. Our future capital requirements will
+depend on many factors including our revenue growth rate, subscription renewal
+activity, billing frequency, the timing and extent of spending to support
+further sales and marketing and research and development efforts, as well as
+expenses associated with our international expansion, the timing and extent of
+additional capital expenditures to invest in existing and new office spaces.
+We may in the future enter into arrangements to acquire or invest in
+complementary businesses, services and technologies, including intellectual
+property rights. We may be required to seek additional equity or debt
+financing. In the event that additional financing is required from outside
+sources, we may not be able to raise it on terms acceptable to us or at all.
+If we are unable to raise additional capital when desired, our business,
+results of operations and financial condition would be materially and
+adversely affected.
+
+The following table summarizes our cash flows for the periods presented:
+
+
+
+|  |  |  |  |  |  |  |  |  |  |  |
+---|---|---|---|---|---|---|---|---|---|---|---|---
+  |    | **Year Ended January  31,** |
+  |    | **2017** |   |   | **2018** |   |   | **2019** |
+  |    | **(in thousands)** |
+
+Net cash provided by operating activities
+
+|    | $ | 9,361 |   |   | $ | 19,426 |   |   | $ | 51,332 |
+
+Net cash used in investing activities
+
+|    |   | (2,824 | )   |   |   | (113,357 | )  |   |
+| (39,719
+| )
+
+
+Net cash provided by (used in) financing activities
+
+|    |   | 100,267 |   |   |   | (3,997 | )  |   |   | 17,534 |
+
+
+
+67
+
+* * *
+
+##### Table of Contents
+
+**_Operating Activities_**
+
+Net cash provided by operating activities of $9.4 million for the fiscal year
+ended January 31, 2017 was primarily due to non-cash charges for depreciation
+and amortization of $1.2 million, amortization of deferred contract
+acquisition costs, primarily commissions, of $3.1 million, stock-based
+compensation of $1.0 million and provision for accounts receivable allowances
+of $0.3 million. Changes in operating assets and liabilities were favorable to
+cash flows from operations by $3.7 million primarily due to an increase in
+deferred revenue of $15.0 million from increases in sales and an increase in
+accounts payable, accrued expenses and other liabilities of $6.6 million,
+partially offset by an addition to deferred contract acquisition costs of
+$11.2 million, an increase to accounts receivable of $5.9 million due to
+increases in sales and an increase in prepaid expenses and other assets of
+$0.9 million.
+
+Net cash provided by operating activities of $19.4 million for the fiscal year
+ended January 31, 2018 was primarily due to net loss of $3.8 million, offset
+by non-cash charges for depreciation and amortization of $2.8 million,
+amortization of deferred contract acquisition costs, primarily commissions, of
+$9.0 million, stock-based compensation of $10.3 million and provision for
+accounts receivable allowances of $0.7 million. Changes in operating assets
+and liabilities were favorable to cash flows from operations by $0.3 million
+primarily due to an increase in deferred revenue of $31.5 million from
+increases in sales, and an increase in accounts payable and accrued expenses
+and other liabilities of $16.3 million, partially offset by an addition to
+deferred contract acquisition costs of $27.5 million, an increase to accounts
+receivable of $16.6 million due to increases in sales and an increase in
+prepaid expenses and other assets of $3.4 million.
+
+Net cash provided by operating activities of $51.3 million for the fiscal year
+ended January 31, 2019 was primarily due to net income of $7.6 million, non-
+cash charges for depreciation and amortization of $7.0 million, amortization
+of deferred contract acquisition costs, primarily commissions, of $20.8
+million, stock-based compensation of $8.9 million and provision for accounts
+receivable allowances of $2.0 million. Changes in operating assets and
+liabilities were favorable to cash flows from operations by $5.0 million
+primarily due to an increase in deferred revenue of $71.5 million due to
+increases in sales, and an increase in accounts payable and accrued expenses
+and other liabilities of $28.2 million, partially offset by an addition to
+deferred contract acquisition costs of $45.8 million, an increase to accounts
+receivable of $41.0 million due to increases in sales and an increase in
+prepaid expenses and other assets of $8.0 million.
+
+**_Investing Activities_**
+
+Net cash used in investing activities of $2.8 million for the fiscal year
+ended January 31, 2017 was related to capital expenditures of $4.8 million,
+partially offset by principal payment received on a note receivable of $2.0
+million. Refer to Note 10 to our consolidated financial statements included
+elsewhere in this prospectus for more information regarding the note
+receivable.
+
+Net cash used in investing activities of $113.4 million for the fiscal year
+ended January 31, 2018 was related to net purchases of marketable securities
+of $103.6 million and capital expenditures of $9.7 million.
+
+Net cash used in investing activities of $39.7 million for the fiscal year
+ended January 31, 2019 was related to capital expenditures of $28.4 million,
+net purchases of marketable securities of $9.3 million and purchases of
+intangible assets of $2.0 million.
+
+**_Financing Activities_**
+
+Net cash provided by financing activities of $100.3 million for the fiscal
+year ended January 31, 2017 was primarily related to net proceeds from our
+Series D convertible preferred stock financing of $114.8 million, partially
+offset by the repurchase of Series A convertible preferred stock of $15.0
+million.
+
+
+
+68
+
+* * *
+
+##### Table of Contents
+
+Net cash used in financing activities of $4.0 million for the fiscal year
+ended January 31, 2018 was primarily related to the repurchase of Series A
+convertible preferred stock of $4.6 million, partially offset by proceeds from
+the exercise of stock options of $0.7 million.
+
+Net cash provided by financing activities of $17.5 million for the fiscal year
+ended January 31, 2019 was primarily related to the issuance of convertible
+promissory notes of $15.0 million and the exercise of stock options of $3.6
+million, partially offset by payments of deferred offering costs of $0.9
+million.
+
+**Remaining Performance Obligation**
+
+The terms of our subscription agreements are monthly, annual and multi-year,
+and we may bill for the full term in advance or on an annual or monthly basis,
+depending on the customer preference. As of January 31, 2019, the aggregate
+amount of the transaction price allocated to remaining performance obligations
+was $311.7 million, which consists of both billed consideration in the amount
+of $125.8 million and unbilled consideration in the amount of $185.9 million
+that we expect to recognize as revenue. We expect to recognize 67% of our
+remaining performance obligations as revenue in fiscal 2020 and the remainder
+thereafter.
+
+**Commitments and Contractual Obligations**
+
+The following table summarizes our non-cancelable contractual obligations as
+of January 31, 2019:
+
+
+
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---
+  |    |   |   |    | **Payments Due by Period** |
+  |    | **Total** |   |    | **Less  Than
+1 Year** |   |    | **1  3**
+ **Years** |   |    | **3  5**
+ **Years** |   |    | **More  Than
+5 Years** |
+  |    | **(in thousands)** |
+
+Operating lease obligations
+
+|    | $ | 56,657 |   |    | $ | 7,609 |   |    | $ | 15,725 |   |    | $ |
+14,688 |   |    | $ | 18,635 |
+
+Non-cancellable purchase obligations
+
+|    |   | 25,115 |   |    |   | 15,958 |   |    |   | 9,137 |   |    |   | 20
+|   |    |   |    |
+|    |
+
+
+
+|
+
+
+
+|   |    |
+
+
+
+|
+
+
+
+|   |    |
+
+
+
+|
+
+
+
+|   |    |
+
+
+
+|
+
+
+
+|   |    |
+
+
+
+|
+
+
+
+|
+
+Total contractual obligations
+
+|    | $ | 81,772 |   |    | $ | 23,567 |   |    | $ | 24,862 |   |    | $ |
+14,708 |   |    | $ | 18,635 |
+|    |
+
+
+
+|
+
+
+
+|   |    |
+
+
+
+|
+
+
+
+|   |    |
+
+
+
+|
+
+
+
+|   |    |
+
+
+
+|
+
+
+
+|   |    |
+
+
+
+|
+
+
+
+|
+
+The contractual commitment amounts in the table above are associated with
+agreements that are enforceable and legally binding. Obligations under
+contracts that we can cancel without a significant penalty are not included in
+the table above. ****
+
+**Off-Balance Sheet Arrangements **
+
+Through January 31, 2019, we did not have any relationships with
+unconsolidated organizations or financial partnerships, such as structured
+finance or special purpose entities that would have been established for the
+purpose of facilitating off-balance sheet arrangements or other contractually
+narrow or limited purposes.
+
+**Quantitative and Qualitative Disclosures About Market Risk**
+
+**_Foreign Currency and Exchange Risk_**
+
+The vast majority of our cash generated from revenue are denominated in U.S.
+dollars, with a small amount denominated in foreign currencies. Our expenses
+are generally denominated in the currencies of the jurisdictions in which we
+conduct our operations, which are primarily in the United States, China,
+Europe and Australia. Our results of current and future operations and cash
+flows are, therefore, subject to fluctuations due to changes in foreign
+currency exchange rates. The effect of a hypothetical 10% change in foreign
+currency exchange rates applicable to our business would not have had a
+material impact on our historical consolidated financials for the fiscal years
+ended January 31, 2017, 2018 and 2019. As the impact of foreign currency
+exchange rates has not been material to our historical operating results, we
+have not entered into derivative or hedging transactions, but we may do so in
+the future if our exposure to foreign currency becomes more significant.
+
+
+
+69
+
+* * *
+
+##### Table of Contents
+
+**_Interest Rate Risk_**
+
+We had cash and cash equivalents of $63.6 million and marketable securities of
+$112.8 million as of January 31, 2019. Cash and cash equivalents consist of
+bank deposits and money market funds. Our marketable securities generally
+consist of high-grade commercial paper, corporate bonds, agency bonds and U.S.
+government agency securities. The cash and cash equivalents and marketable
+securities are held for working capital purposes. Such interest-earning
+instruments carry a degree of interest rate risk. The primary objective of our
+investment activities is to preserve principal while maximizing income without
+significantly increasing risk. We do not enter into investments for trading or
+speculative purposes and have not used any derivative financial instruments to
+manage our interest rate risk exposure. Due to the short-term nature of our
+investments, we have not been exposed to, nor do we anticipate being exposed
+to, material risks due to changes in interest rates. A hypothetical 10% change
+in interest rates during any of the periods presented would not have had a
+material impact on our historical consolidated financial statements for the
+fiscal years ended January 31, 2017, 2018 and 2019.
+
+**Critical Accounting Policies and Estimates**
+
+Critical accounting policies and estimates are those accounting policies and
+estimates that are both the most important to the portrayal of our net assets
+and results of operations and require the most difficult, subjective or
+complex judgments, often as a result of the need to make estimates about the
+effect of matters that are inherently uncertain. These estimates are developed
+based on historical experience and various other assumptions that we believe
+to be reasonable under the circumstances. Critical accounting estimates are
+accounting estimates where the nature of the estimates are material due to the
+levels of subjectivity and judgment necessary to account for highly uncertain
+matters or the susceptibility of such matters to change and the impact of the
+estimates on financial condition or operating performance is material.
+
+The critical accounting estimates, assumptions and judgments that we believe
+have the most significant impact on our consolidated financial statements are
+described below. ** __**
+
+**_Revenue Recognition_**
+
+__**__****__**____We derive our revenue from subscription agreements with
+customers for access to our video-first communications platform and services.
+We elected to adopt Accounting Standards Codification (ASC) Topic 606,
+_Revenue from Contracts with Customers_ (ASC 606), effective as of February 1,
+2017, utilizing the full retrospective method of adoption. Accordingly, the
+consolidated financial statements for the fiscal years ended January 31, 2017,
+2018 and 2019 are presented under ASC 606.
+
+In accordance with ASC 606, revenue is recognized when a customer obtains
+control of promised services. The amount of revenue recognized reflects the
+consideration that we expect to receive in exchange for these services. To
+achieve the core principle of this standard, we apply the following five
+steps:
+
+_1\. Identification of the contract, or contracts, with the customer_
+
+We determine a contract with a customer to exist when the contract is
+approved, each partys rights regarding the services to be transferred can be
+identified, the payment terms for the services can be identified, the customer
+has the ability and intent to pay, and the contract has commercial substance.
+At contract inception, we will evaluate whether two or more contracts should
+be combined and accounted for as a single contract and whether the combined or
+single contract includes more than one performance obligation. We apply
+judgment in determining the customers ability and intent to pay, which is
+based on a variety of factors, including the customers historical payment
+experience or, in the case of a new customer, credit and financial information
+pertaining to the customer.
+
+_2\. Identification of the performance obligations in the contract_
+
+Performance obligations committed in a contract are identified based on the
+services that will be transferred to the customer that are both capable of
+being distinct, whereby the customer can benefit from the service either
+
+
+
+70
+
+* * *
+
+##### Table of Contents
+
+on its own or together with other resources that are readily available from
+third parties or from us, and are distinct in the context of the contract,
+whereby the transfer of the services and the products is separately
+identifiable from other promises in the contract. Our performance obligations
+generally consist of access to our video-first communications platform and
+related support services which is considered one performance obligation. Our
+customers do not have the ability to take possession of our software, and
+through access to our platform we provide a series of distinct software-based
+services that are satisfied over the term of the subscription.
+
+We also provide services, which include professional services, consulting
+services and online event hosting, which are generally considered distinct
+from the access to our video-first communications platform.
+
+_3\. Determination of the transaction price_
+
+The transaction price is determined based on the consideration to which we
+expect to be entitled in exchange for transferring services to the customer.
+Variable consideration is included in the transaction price if, in our
+judgment, it is probable that a significant future reversal of cumulative
+revenue recognized under the contract will not occur. None of our contracts
+contain a significant financing component. Revenue is recognized net of any
+taxes collected from customers which are subsequently remitted to governmental
+entities (e.g., sales and other indirect taxes).
+
+Our video-first communications platform and related support services are
+typically warranted to perform in a professional manner that will comply with
+the terms of the subscription agreements. In addition, we include service
+level commitments to our customers warranting certain levels of uptime
+reliability and performance and permitting those customers to receive credits
+in the event that we fail to meet those service levels. These credits
+represent a form of variable consideration. Historically, we have not
+experienced any significant incidents affecting the defined levels of
+reliability and performance as required by the subscription agreements. We
+have not provided any material refunds related to these agreements in the
+consolidated financial statements during the periods presented.
+
+_4\. Allocation of the transaction price to the performance obligations in the
+contract_
+
+Contracts that contain multiple performance obligations require an allocation
+of the transaction price to each performance obligation based on each
+performance obligations relative standalone selling price. As noted above,
+access to our video-first communications platform and related support services
+are considered one performance obligation in the context of the contract and
+accordingly the transaction price is allocated to this single performance
+obligation.
+
+_5\. Recognition of the revenue when, or as, a performance obligation is
+satisfied_
+
+Revenue is recognized at the time the related performance obligation is
+satisfied by transferring the control of the promised service to a customer.
+Revenue is recognized in an amount that reflects the consideration that we
+expect to receive in exchange for those services. Fees for access to our
+video-first communications platform and related support services are
+subscription revenue and are considered one performance obligation and the
+related revenue is recognized ratably over the subscription period as we
+satisfy the performance obligation.
+
+Services are time-based arrangements and revenue is recognized as these
+services are performed.
+
+**_Contract Balances_**
+
+We receive payments from customers based on a billing schedule as established
+in our customer contracts. Accounts receivable are recorded when we
+contractually have the right to consideration. In some arrangements, a right
+to consideration for our performance under the contract may occur before
+invoicing to the customer resulting in an unbilled accounts receivable.
+
+
+
+71
+
+* * *
+
+##### Table of Contents
+
+Contract liabilities consist of deferred revenue. Revenue is deferred when we
+have the right to invoice in advance of performance under a customer contract.
+The current portion of deferred revenue balances are recognized during the
+following 12-month period.
+
+**Cost to Obtain a Contract**
+
+We capitalize sales commissions and associated payroll taxes paid to internal
+sales personnel that are incremental to the acquisition of customer contracts.
+These costs are recorded as deferred contract acquisition costs on the
+consolidated balance sheets. We determine whether costs should be deferred
+based on our sales compensation plans and if the commissions are incremental
+and would not have occurred absent the customer contract.
+
+Sales commissions paid upon the initial acquisition of a customer contract are
+amortized over an estimated period of benefit of three years, which is
+typically greater than the contractual terms of the customer contracts. We do
+not pay sales commissions upon contract renewal. Amortization is recognized on
+a straight-line basis commensurate with the pattern of revenue recognition. We
+determine the period of benefit for commissions paid for the acquisition of
+the initial customer contract by taking into consideration the initial
+estimated customer life and the technological life of our video-first
+communications platform and related significant features. Amortization of
+deferred contract acquisition costs is included in sales and marketing expense
+in the consolidated statements of operations.
+
+**_Stock-Based Compensation_**
+
+Stock-based compensation expense related to stock awards is recognized based
+on the fair value of the awards granted. The fair value of each option award
+is estimated on the grant date using the Black-Scholes option pricing model.
+The Black-Scholes option pricing model requires the input of highly subjective
+assumptions, including the fair value of the underlying common stock, the
+expected term of the option, the expected volatility of the price of our
+common stock, risk-free interest rates and the expected dividend yield of our
+common stock. The assumptions used to determine the fair value of the option
+awards represent managements best estimates. These estimates involve inherent
+uncertainties and the application of managements judgment. The related stock-
+based compensation expense is recognized on a straight-line basis over the
+requisite service period of the awards, which is generally four years. We
+account for forfeitures as they occur instead of estimating the number of
+awards expected to be forfeited.
+
+Our use of the Black-Scholes option-pricing model requires the input of highly
+subjective assumptions. If factors change and different assumptions are used,
+our stock-based compensation expense could be materially different in the
+future.
+
+These assumptions and estimates are as follows:
+
+
+
+  |  |   |
+
+_Fair Value of Common Stock._ As our common stock is not publicly traded, the
+fair value was determined by our board of directors, with input from
+management and valuation reports prepared by third-party valuation
+specialists. Stock-based compensation for financial reporting purposes is
+measured based on updated estimates of fair value when appropriate, such as
+when additional relevant information related to the estimate becomes available
+in a valuation report issued as of a subsequent date.
+
+---|---|---|---
+
+
+
+  |  |   |
+
+_Risk-Free Interest Rate._ The risk-free interest rate for the expected term
+of the options was based on the U.S. Treasury yield curve in effect at the
+time of the grant. __
+
+---|---|---|---
+
+
+
+  |  |   |
+
+_Expected Term._ The expected term of options represents the period of time
+that options are expected to be outstanding. Our historical stock option
+exercise experience does not provide a reasonable basis upon which to estimate
+an expected term due to a lack of sufficient data. For stock options granted
+to
+
+---|---|---|---
+
+
+
+72
+
+* * *
+
+##### Table of Contents
+
+  |
+
+employees, we estimate the expected term by using the simplified method. The
+simplified method calculates the expected term as the average of the time-to-
+vesting and the contractual life of the options. For stock options granted to
+non-employees, the expected term equals the contractual term of the option.
+
+---|---
+
+
+
+  |  |   |
+
+_Expected Volatility._ As we do not have a trading history for our common
+stock, the expected volatility was estimated by taking the average historic
+price volatility for industry peers, consisting of several public companies in
+our industry which are either similar in size, stage of life cycle, or
+financial leverage, over a period equivalent to the expected term of the
+awards.
+
+---|---|---|---
+
+
+
+  |  |   |
+
+_Expected Dividend Yield._ We have never declared or paid any cash dividends
+and do not presently plan to pay cash dividends in the foreseeable future. As
+a result, an expected dividend yield of zero percent was used.
+
+---|---|---|---
+
+The Black-Scholes assumptions used in evaluating our awards are as follows:
+
+
+
+|  |  |  |  |  |
+---|---|---|---|---|---|---
+  |    | **Year Ended January  31,**
+  |    | **2017** |    | **2018** |    | **2019**
+
+Expected term (years)
+
+|    | 5.4  6.1 |    | 5.6  6.7 |    | 5.0  6.2
+
+Expected volatility
+
+|    | 48.2%  56.3% |    | 47.7%  52.0% |    | 44.6%  48.2%
+
+Risk-free interest rate
+
+|    | 1.2%  1.5% |    | 1.8%  2.3% |    | 2.6%  3.1%
+
+Expected dividend yield
+
+|    | 0.0% |    | 0.0% |    | 0.0%
+
+We will continue to use judgment in evaluating the assumptions related to our
+stock-based compensation on a prospective basis. As we continue to accumulate
+additional data related to our common stock, we may refine our estimation
+process, which could materially impact our future stock-based compensation
+expense.
+
+**_Common Stock Valuations_**
+
+In valuing our common stock, the fair value of our business, or enterprise
+value, was determined using either the market approach or a combination of the
+market and income approaches. The market approach estimates value based on a
+comparison of the subject company to comparable public companies in a similar
+line of business and secondary transactions of our capital stock. From the
+comparable companies, a representative market value multiple is determined and
+then applied to the subject companys financial results to estimate the value
+of the subject company. The market approach also includes consideration of the
+transaction price of secondary sales of our capital stock by investors. The
+income approach estimates the fair value of a company based on the present
+value of the companys future estimated cash flows and the residual value of
+the company beyond the forecast period. These future cash flows, including the
+cash flows beyond the forecast period for the residual value, are discounted
+to their present values using an appropriate discount rate, to reflect the
+risks inherent in the company achieving these estimated cash flows.
+
+The resulting equity value is then allocated to each class of stock using an
+Option Pricing Model (OPM). The OPM treats common stock and convertible
+preferred stock as call options on an equity value, with exercise prices based
+on the liquidation preference of our convertible preferred stock. The common
+stock is modeled as a call option with a claim on the equity value at an
+exercise price equal to the remaining value immediately after our convertible
+preferred stock is liquidated. The exclusive reliance on the OPM through July
+31, 2018 was appropriate when the range of possible future outcomes was
+difficult to predict and resulted in a highly speculative forecast. Beginning
+in October 2018, we performed the equity allocation using a probability
+weighted expected return method, or PWERM. The PWERM involves the estimation
+of the value of our company under multiple future potential outcomes, and
+estimates the probability of each potential outcome. The per share value of
+our common stock when determined using the PWERM was ultimately based upon
+probability-weighted per share values resulting from the various future
+scenarios, which include an initial public offering, merger or sale, or
+continued operation as a private company. After the equity value was
+determined and allocated to the various
+
+
+
+73
+
+* * *
+
+##### Table of Contents
+
+classes of shares, a discount for lack of marketability (DLOM) was applied to
+arrive at the fair value of common stock on a non-marketable basis. A DLOM is
+applied based on the theory that as an owner of a private company stock, the
+stockholder has limited information and opportunities to sell this stock. A
+market participant that would purchase this stock would recognize this risk
+and thereby require a higher rate of return, which would reduce the overall
+fair market value.
+
+Our assessments of the fair value of common stock for grant dates were based
+in part on the current available financial and operational information and the
+common stock value provided in the most recent valuation as compared to the
+timing of each grant. For financial reporting purposes, we considered the
+amount of time between the valuation date and the grant date to determine
+whether to use the latest common stock valuation or a straight-line
+interpolation between the two valuation dates. This determination included an
+evaluation of whether the subsequent valuation indicated that any significant
+change in valuation had occurred between the previous valuation and the grant
+date.
+
+**_Preliminary Offering Price and Options Granted in January 2019 and
+Subsequent to January 31, 2019_**
+
+Subsequent to January 31, 2019, we granted stock options to purchase up to
+1,324,650 shares of common stock with a weighted-average exercise price of
+$27.42 per share which generally vest over a period of 48 months. Based on the
+initial public offering price, we estimate we will recognize approximately
+$29.0 million of stock-based compensation expense related to these stock
+options generally over the requisite service period of 48 months.
+
+In addition, in light of the difference between the fair value used for stock
+options granted on January 24, 2019 and the initial public offering price, in
+order to determine the appropriate share-based compensation expense for those
+stock options for financial reporting purposes, we reassessed the share-based
+compensation expense using the initial public offering price. We are
+recognizing $19.3 million of stock-based compensation expense related to these
+option grants generally over the requisite service period of 48 months. Since
+these options were granted near the end of fiscal 2019, the amount of stock-
+based compensation expense recognized in that fiscal period for these stock
+option grants is immaterial, and the incremental amount of additional expense
+in fiscal 2019 as a result of this reassessment using the initial public
+offering price is also immaterial. Therefore, we will record an out-of-period
+adjustment in the first quarter of fiscal 2020 to catch-up the incremental
+amount of additional expense for these stock option grants that would have
+otherwise been recorded in fiscal 2019.
+
+The amount of stock-based compensation expense related to these option grants
+is preliminary and unaudited, based upon our estimates, and subject to further
+internal review by our management and compilation of actual results. We have
+provided an estimate for this expense primarily because we have not completed
+the first quarter of fiscal 2020, and therefore, we have not started, much
+less completed, our closing procedures for the quarter. Our managements
+estimates are based upon information currently available and could change as a
+result of the final offering price or other factors. While we expect that our
+estimate of stock-based compensation expense related to these option grants is
+reasonable based on all information currently available, our actual expense
+may differ materially from these preliminary estimates.
+
+Upon the completion of this offering, our common stock will be publicly traded
+and we will rely on the closing price of our common stock as reported on the
+date of grant to determine the fair value of our common stock.
+
+**_Derivative Liabilities_**
+
+The fair value of the derivative liabilities were measured using a with-and-
+without approach. Inputs used to determine the estimated fair value of the
+derivative instruments include the probability estimates of potential
+settlement scenarios for the convertible promissory notes, a present value
+discount rate and an estimate of the
+
+
+
+74
+
+* * *
+
+##### Table of Contents
+
+expected timing of settlement. Certain unobservable inputs used in the fair
+value measurement of the derivative instruments associated with the
+convertible promissory notes are the scenario probabilities and the discount
+rate estimated at the valuation date.
+
+**JOBS Act Accounting Election**
+
+We are an emerging growth company, as defined in the Jumpstart Our Business
+Startups Act (JOBS Act). Under the JOBS Act, emerging growth companies can
+delay adopting new or revised accounting standards issued subsequent to the
+enactment of the JOBS Act until such time as those standards apply to private
+companies. We have irrevocably elected not to avail ourselves of this
+exemption from new or revised accounting standards, and therefore, we will be
+subject to the same new or revised accounting standards as other public
+companies that are not emerging growth companies.
+
+**Recent Accounting Pronouncements**
+
+See Summary of Business and Significant Accounting Policies in Note 1 of the
+notes to our consolidated financial statements included elsewhere in this
+prospectus for more information.
+
+
+
+75
+
+* * *
