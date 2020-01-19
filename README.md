@@ -2,7 +2,7 @@
 
 Riven is an open source library built on [spaCy](https://spacy.io/) for processing and extracting information from unstructured financial documents such as annual reports, quarterly reports, prospectuses, proxies and news.
 
-Riven is a work-in-progress project that is not functional yet. If you are a data scientist or engineer who is interested to contribute, please reach out to me.
+**NOTE!** Riven is not functional yet. This repository only contains boilerplate code.
 
 ## Why We Are Building Riven
 
@@ -47,10 +47,29 @@ The NER component of the Blackstone model has been trained to detect the followi
 *Below are the key components in Riven, which we will expand on once built*
 
 1. **Retrieve Filings.** Retrieves US SEC filings for tickers and saves them locally. Under the hood, Riven uses [Tika](https://tika.apache.org/)) to convert them into text and provides helper methods to clean the data for analysis.
+
+```
+# Download and save all annual reports for Amazon
+scrapy crawl filing -a ticker=AMZN -a type="10-K"
+
+# Filing will be downloaded in /data and converted to text format as well for analysis
+
+...
+```
+
 2. **Named entity recognition.** Recognize company, metrics, values and dates within a document.
 
 ```
-...
+import spacy
+
+# Load the model
+nlp = spacy.load("riven_en")
+
+# Text you want to analyze
+text = "For the fiscal year ended January 31, 2019, we had 344 customers that contributed more than $100,000 of revenue, compared to just 143 customers one year before."
+
+# Apply the model to the text
+doc = nlp(text)
 
 # Call displacy and pass `ner_displacy_options` into the option parameter`
 displacy.serve(doc, style="ent", options=ner_displacy_options)
@@ -64,6 +83,27 @@ Which produces something that looks like this:
 
 3. **Information extraction.** Returns a list of company, metrics, values and dates identified in a document
 
+```
+import spacy
+
+# Load the model
+nlp = spacy.load("riven_en")
+
+# Text you want to analyze
+text = "For the fiscal year ended January 31, 2019, we had 344 customers that contributed more than $100,000 of revenue, compared to just 143 customers one year before."
+
+# Apply the model to the text
+doc = nlp(text)
+
+# Get extracted relations
+for relation in doc.relations:
+    print(relation)
+
+>>>
+["customers that contributed more than $100,000 of revenue", 344, "fiscal year ended January 31, 2019"]
+["customers that contributed more than $100,000 of revenue", 143, "fiscal year ended January 31, 2018"]
+
+```
 ## References
 
 * [Spacy / Prodigy - NLP library and annotation tool](https://spacy.io/)
